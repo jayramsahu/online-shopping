@@ -1,0 +1,87 @@
+body{
+	
+	background:#39c;
+	}
+
+
+.main{
+
+    width: 1000px;
+	height: auto;
+	margin:auto;
+
+}
+.header{
+
+    width: 1000px;
+	height: 100;
+    background-color: white;
+
+}
+#nevi{
+
+    width: 1000px;
+	height: 50px;
+    background-color: black;
+	
+
+}
+#menu{
+	float:left;
+	padding:0;
+	line-height:45px;
+	margin-top:5px;
+	
+	
+	
+}
+#menu li{
+	list-style:none;
+	display:inline;
+	
+	
+}
+#menu a{
+	padding:10px;
+	font-size:18px;
+	margin:5px;
+	color:#fff;
+	
+}
+
+
+
+
+
+.content{
+
+    width: 1000px;
+	height: 600px;
+	
+
+}
+#lcontent{
+	width: 300px;
+	height: 600px;
+    background-color:gray ;
+	
+	float:left;
+	
+}
+#rcontent{
+	width: 700px;
+	height: 600px;
+    background-color: white;
+	
+	float:right;
+	
+}
+
+.footer{
+
+    width: 1000px;
+	height: 100px;
+    background-color: green;
+	clear:both;
+
+}

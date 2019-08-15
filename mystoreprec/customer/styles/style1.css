@@ -1,0 +1,125 @@
+
+body{
+	
+	background:#39c;
+	}
+
+.main_wrapper{
+	width:1000px;
+	height:auto;
+	margin:auto;
+	}
+	.header_wrapper{
+	width:1000px;
+	height:100px;
+	background:#FFF;
+	}
+	#navbar{
+	width:1000px;
+	height:50px;
+	background:#906;
+	color:#FFF;}
+	.menu{
+		padding:0;
+		line-height:40px;
+		margin-top:0px;
+		}
+		.menu li{
+	list-style:none;
+	display:inline;
+	float:left;
+	}
+	
+	.menu a{
+		padding:10px;
+		text-decoration:none;
+		font-size:20px;
+		margin:5px;
+	color:#FFF;
+	}
+	.menu a:hover{
+		text-decoration:underline;
+		color:#093;
+		font-weight:bolder;
+		
+	}
+	#form{
+		line-height:50px;
+		padding-left:5px;
+		float:right;
+		
+	}
+		
+	.content_wrapper{
+		width:1000px;
+			height:auto;
+	background:#FCC;
+	}
+	#right_content{
+		width:800px;
+		height:auto;
+	background:#FCC;
+		float:left;
+	}
+	#left_sidebar{
+		width:200px;
+		height:auto;
+	background:#999;
+		float:right;
+		
+	}
+	
+	.footer{
+		width:1000px;
+		height:100px;
+		background:#93F;
+		color:#FFF;
+		clear:both;
+	}
+	#side_bar{
+		
+		background:white;
+		color:black;
+		padding:10px;
+		font-size:22px;
+		font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	}
+	#cats
+	{
+		color:black;
+		text-align:left;
+		padding:10px;
+	}
+	#cats li{
+		list-style:none;
+		margin:10px;}
+		#cats a{
+			color:#C03;
+			font-size:20px;
+			text-decoration:none;
+			padding:5px;
+		}
+		#cats a:hover{
+			text-decoration:underline;
+			color:white;
+			font-weight:bold;
+			
+		}
+		#headline{
+			color:white;
+			background:black;
+			float:right;
+			height:40px;
+			width:780px;
+			padding:10px;
+			
+		}
+		#headline_content
+		{
+			padding-top:3px;
+			float:right;
+		}
+		
+		
+		
+
